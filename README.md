@@ -1,5 +1,5 @@
 <span><h1> Hi 👋</h1><img src="https://komarev.com/ghpvc/?username=falseCloud&color=yellow"></span>
-I'm Jakub also known as cloud3, I'm Young Developer who learns:
+I'm Jakub also known as nvx or cloud3, I'm Young Developer who learns:
 - **JavaScript**
 - **Csharp**
 - **VB.NET**
