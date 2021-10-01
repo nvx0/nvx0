@@ -1,11 +1,16 @@
 <span><h1> Hi 👋</h1><img src="https://komarev.com/ghpvc/?username=falseCloud&color=yellow"></span>
-I'm Jakub also known as nvx or cloud3, I'm Young Developer who learns:
-- **JavaScript**
-- **Csharp**
-- **VB.NET**
+I'm Jakub also known as nvx or cloud3.
+
+Now I'm learning:
+- **C#**
 - **Python**
-- **TS**
-- **HTML and CSS**
+
+Mastering: 
+- **JavaScript**
+- **Typescript**
+- **VB.NET**
+- **HTML/CSS**
+
 
 # Some data 💫
 
